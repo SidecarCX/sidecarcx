@@ -1,6 +1,6 @@
 # Sidecar CX Communities Repository
 
-This repository is to be used by our customers for any feature discussions, bug reports, or general questions where our community can also help answer.
+This repository is to be used by our customers for any feature discussions, bug reports, or general questions where our community can also help answer. Feel free to drop a feature request or bug report [here](https://github.com/SidecarCX/sidecarcx/issues).
 
 Visit [our website](https://www.sidecarcx.com/) for more information about the product and additional help docs.
 
